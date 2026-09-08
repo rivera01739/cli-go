@@ -13,3 +13,4 @@ Notes and usage details for cli-go.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
